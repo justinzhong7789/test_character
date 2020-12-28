@@ -77,4 +77,5 @@ Assets/ExampleAssets/
 .DS_Store
 New Unity Project/.DS_Store
 *.bin
-Library/Artifacts/
+New Unity Project/Library/Artifacts/
+New Unity Project/Temp/

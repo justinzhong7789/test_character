@@ -7,7 +7,7 @@ public class camSwitch : MonoBehaviour
     public GameObject firstCam;
     public GameObject thirdCam;
     public const int firstMode = 0, thirdMode = 1;
-    public int camMode = 0;
+    public int camMode = 1;
     // Update is called once per frame
     void Update()
     {
